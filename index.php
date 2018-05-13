@@ -1,3 +1,3 @@
 <?php
-echo "<h1> Hello WOrld How are you </h1>"
+echo "<h1> Hello World..! How are you </h1>"
 ?>
